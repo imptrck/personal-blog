@@ -54,6 +54,12 @@ disqusShortname = "yourdiscussshortname"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/patrickdelbello/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://twitter.com/patrickdelbello/"
+
 
 
 # Menu links
